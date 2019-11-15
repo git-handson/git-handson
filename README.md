@@ -30,7 +30,7 @@
 
 
 # アカウント一覧
-<<<ここに記載してください！>>>
+snufkin92
 shooooori0128
 neugate
 
